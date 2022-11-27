@@ -4,4 +4,8 @@ yellow
 red
 green
 blue
+<<<<<<< HEAD
 git is easy to work 
+=======
+git is nice tool
+>>>>>>> refs/remotes/origin/main
